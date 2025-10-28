@@ -1,7 +1,7 @@
 # ClonoDeep: An AI Platform for Rapid bNAb Screening
 ---
 
-## ⚠️ Code Status: Coming Soon
+## Code Status: Coming Soon
 
 Thank you for your interest in our work!
 
